@@ -2,7 +2,7 @@
 * Performed feature extraction and vectorization of the articles using TF-IDF.
 * Estimated the optimal value of K (number of clusters) using Elbow Method.
 * Clustered the documents on the basis of their embeddings using K-Means algorithm.
-* Accuracy [Count Vectors, 77%], [TF-IDF, 85%], [TF-IDF+Word lemmatisation, 88%].
+* Accuracy [Count Vectors, 77%], [TF-IDF, 85%], [TF-IDF+Word lemmatization, 88%].
 * Visualized the clusters using TensorFlow Embedding Projector.
 
 ## Cluster Visualization : 
