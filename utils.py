@@ -11,7 +11,7 @@ from nltk.corpus import wordnet
 from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
 import gensim.downloader as api
 
-#word2vec = api.load('word2vec-google-news-300')
+word2vec = api.load('word2vec-google-news-300')
 
 class Utility:
     
