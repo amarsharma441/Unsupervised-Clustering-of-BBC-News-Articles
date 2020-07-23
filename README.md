@@ -1,6 +1,6 @@
 <h2 align="center">Unsupervised Clustering of BBC News Articles</h2>
 <ul>
-  <li>Performed feature extraction and vectorization of the articles using TF-IDF.</li>
+  <li>Performed feature extraction and vectorization of the articles.</li>
   <li>Estimated the optimal value of K (number of clusters) using Elbow Method.</li>
   <li>Clustered the documents on the basis of their embeddings using K-Means algorithm.</li>
   <li>Accuracy [Count Vectors, 77%], [TF-IDF, 85%], [TF-IDF+Word lemmatization, 88%], [Word Embedding, 91%].</li>
